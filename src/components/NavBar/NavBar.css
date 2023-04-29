@@ -1,0 +1,13 @@
+.logotes {
+    width: 15rem;
+}
+
+li {
+    margin: 0 2rem;
+    cursor: pointer;
+}
+
+.container-fluid {
+    background: linear-gradient(#d7e8d2, #3ab02b)
+}
+
